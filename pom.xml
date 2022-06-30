@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>ips</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>IPS</name>
 	<description>The backend of Interview Process System</description>
